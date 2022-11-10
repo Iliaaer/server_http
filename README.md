@@ -1,5 +1,6 @@
 # server_http
 ```bash
+sudo apt install nlohmann-json3-dev
 mkdir build 
 cd build 
 cmake ..
